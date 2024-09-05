@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 vulhub/shiro:1.2.4
 vulhub/shiro:1.5.1
+vulhub/struts2:2.5.25
